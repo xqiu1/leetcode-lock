@@ -16,7 +16,7 @@ import java.util.*;
  * 0 (7-4-1) (9-4-2) .. (nums[i] - nums[0] - i)
  */
 
-class Solution {
+class MissingElement {
     // binary search
     // time: logn
     // space: 1
